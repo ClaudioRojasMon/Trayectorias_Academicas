@@ -1,4 +1,4 @@
-![Logo](https://github.com/ClaudioRojasMon/Trayectorias_Academicas/blob/79b362cb03730b1e8f20d9116f9fc4cbfddd78fc/Original%20Logo.png)
+![Logo](Logo.png)
 
 
 # 📊 Trayectorias Académicas - Análisis Longitudinal
